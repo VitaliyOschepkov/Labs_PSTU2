@@ -1,0 +1,6 @@
+﻿  Ipart.cpp
+  main.cpp
+C:\Лабораторные работы\1. Классы и объекты. Инкапсуляция\Lab_01\main.cpp(38,21): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Лабораторные работы\1. Классы и объекты. Инкапсуляция\Lab_01\main.cpp(38,14): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  Generating Code...
+  Lab_01.vcxproj -> C:\Лабораторные работы\1. Классы и объекты. Инкапсуляция\Lab_01\Debug\Lab_01.exe
