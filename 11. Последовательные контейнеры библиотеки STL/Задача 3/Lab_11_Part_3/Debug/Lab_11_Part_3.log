@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 3\Lab_11_Part_3\Vector.h(61,20): warning C4018: '<': signed/unsigned mismatch
+C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 3\Lab_11_Part_3\Vector.h(60): message : while compiling class template member function 'void Vector<Time>::Print(void)'
+C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 3\Lab_11_Part_3\main.cpp(14): message : see reference to function template instantiation 'void Vector<Time>::Print(void)' being compiled
+C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 3\Lab_11_Part_3\main.cpp(12): message : see reference to class template instantiation 'Vector<Time>' being compiled
+C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 3\Lab_11_Part_3\Vector.h(96,20): warning C4018: '<': signed/unsigned mismatch
+C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 3\Lab_11_Part_3\Vector.h(93): message : while compiling class template member function 'T Vector<T>::Average(void)'
+          with
+          [
+              T=Time
+          ]
+C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 3\Lab_11_Part_3\main.cpp(15): message : see reference to function template instantiation 'T Vector<T>::Average(void)' being compiled
+          with
+          [
+              T=Time
+          ]
+C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 3\Lab_11_Part_3\Vector.h(87,20): warning C4018: '<': signed/unsigned mismatch
+C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 3\Lab_11_Part_3\Vector.h(86): message : while compiling class template member function 'void Vector<Time>::toAllAdd(T)'
+          with
+          [
+              T=Time
+          ]
+C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 3\Lab_11_Part_3\main.cpp(17): message : see reference to function template instantiation 'void Vector<Time>::toAllAdd(T)' being compiled
+          with
+          [
+              T=Time
+          ]
+  Time.cpp
+  Generating Code...
+  Lab_11_Part_3.vcxproj -> C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 3\Lab_11_Part_3\Debug\Lab_11_Part_3.exe

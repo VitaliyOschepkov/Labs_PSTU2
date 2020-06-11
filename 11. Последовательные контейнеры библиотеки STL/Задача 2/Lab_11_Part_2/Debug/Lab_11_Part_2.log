@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 2\Lab_11_Part_2\main.cpp(29,23): warning C4018: '<': signed/unsigned mismatch
+C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 2\Lab_11_Part_2\main.cpp(53,23): warning C4018: '<': signed/unsigned mismatch
+C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 2\Lab_11_Part_2\main.cpp(65,23): warning C4018: '<': signed/unsigned mismatch
+C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 2\Lab_11_Part_2\main.cpp(80,23): warning C4018: '<': signed/unsigned mismatch
+  Time.cpp
+  Generating Code...
+  Lab_11_Part_2.vcxproj -> C:\Лабораторные работы\11. Последовательные контейнеры библиотеки STL\Задача 2\Lab_11_Part_2\Debug\Lab_11_Part_2.exe
