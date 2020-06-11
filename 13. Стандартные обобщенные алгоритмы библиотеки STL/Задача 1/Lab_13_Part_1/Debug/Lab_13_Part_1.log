@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Лабораторные работы\13. Стандартные обобщенные алгоритмы библиотеки STL\Задача 1\Lab_13_Part_1\main.cpp(30,23): warning C4018: '<': signed/unsigned mismatch
+C:\Лабораторные работы\13. Стандартные обобщенные алгоритмы библиотеки STL\Задача 1\Lab_13_Part_1\main.cpp(39,23): warning C4018: '<': signed/unsigned mismatch
+  Time.cpp
+  Generating Code...
+  Lab_13_Part_1.vcxproj -> C:\Лабораторные работы\13. Стандартные обобщенные алгоритмы библиотеки STL\Задача 1\Lab_13_Part_1\Debug\Lab_13_Part_1.exe
