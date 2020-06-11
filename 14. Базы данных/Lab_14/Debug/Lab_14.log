@@ -1,0 +1,6 @@
+﻿  main.cpp
+C:\Лабораторные работы\14. Базы данных\Lab_14\List.h(50,11): warning C4018: '>': signed/unsigned mismatch
+C:\Лабораторные работы\14. Базы данных\Lab_14\List.h(84,24): warning C4018: '>': signed/unsigned mismatch
+  Temperature.cpp
+  Generating Code...
+  Lab_14.vcxproj -> C:\Лабораторные работы\14. Базы данных\Lab_14\Debug\Lab_14.exe
