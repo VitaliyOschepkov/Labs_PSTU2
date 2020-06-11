@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Лабораторные работы\15. Поиск данных с помощью хеш таблиц\Lab_15\Table.h(65,30): warning C4018: '<': signed/unsigned mismatch
+C:\Лабораторные работы\15. Поиск данных с помощью хеш таблиц\Lab_15\Table.h(96,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Лабораторные работы\15. Поиск данных с помощью хеш таблиц\Lab_15\main.cpp(13,9): warning C4101: 'r': unreferenced local variable
+  Lab_15.vcxproj -> C:\Лабораторные работы\15. Поиск данных с помощью хеш таблиц\Lab_15\Debug\Lab_15.exe
